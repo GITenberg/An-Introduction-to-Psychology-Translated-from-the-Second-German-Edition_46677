@@ -1,4 +1,8 @@
 _repo: An-Introduction-to-Psychology-Translated-from-the-Second-German-Edition_46677
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wundt, Wilhelm Max
@@ -16,6 +20,8 @@ description: '"It is not the intention of this introduction to psychology to dis
   impossible to omit all reference to experiments, but we can and will omit reference
   to the more or less complicated instruments on which the carrying out of such experiments
   depends"--Preface.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46677#An-Introduction-to-Psychology-Translated-from-the-Second-German-Edition
 gutenberg_issued: '2014-08-25'
 gutenberg_type: Text
 identifiers:
